@@ -1,0 +1,9 @@
+footer {
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+footer a {
+    color: #333;
+    text-decoration: underline;
+}

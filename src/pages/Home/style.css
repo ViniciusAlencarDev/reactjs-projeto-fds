@@ -1,0 +1,17 @@
+body {
+    background-color: #acb4d4;
+}
+
+section {
+    padding-top: 30px;
+}
+
+section {
+    text-align: center;
+}
+section p {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
