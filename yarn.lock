@@ -11001,3 +11001,8 @@ yargs@^13.3.0:
     which-module "^2.0.0"
     y18n "^4.0.0"
     yargs-parser "^13.1.2"
+
+your-package-name@^0.0.0:
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/your-package-name/-/your-package-name-0.0.0.tgz#5154d9a53eba8c6e86b66e85188d3e836c0b968a"
+  integrity sha512-rSZcXpHm/885/C4tREMNhfdX8BiQuPM8zt/jvxL/qUJsweVrUlyluT5cQv+R4tQNoz5npIQ4gc/bww+7vLy6WA==
