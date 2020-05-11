@@ -7,7 +7,7 @@ export default function Header() {
     return(
         <>
             <nav>
-                <img src= {Logo} id="logo" />
+                <img src= {Logo} id="logo" alt="logo" />
                 <ul id="menu" class="nav nav-pills">
                     <li class="nav-item">
                         <Link to="/" className="nav-link">Início</Link>
