@@ -8,6 +8,7 @@ import Solicitacao from './pages/Solicitacao';
 import Historico from './pages/Historico';
 import Vagas from './pages/Vagas';
 
+
 function App() {
   return (
     <Router>
